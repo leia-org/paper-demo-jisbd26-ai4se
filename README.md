@@ -18,7 +18,9 @@ In this exercise you will act as an interviewer to extract the requisites for a 
 
 * **<a href="https://pre.workbench.leia.ovh/?email=_test_dm2512&code=RMJCVVJ1025HR0YMH" target="_blank">Demo Link</a>** to the interview exercise. 
 * **Exercise Code**: RMJCVVJ1025HR0YMH
-* **<a href="https://pre.workbench.leia.ovh/spectate/69a96a43fef1617ef502b25d?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI2OWE5NmE0M2ZlZjE2MTdlZjUwMmIyNWQiLCJ0eXBlIjoic3BlY3RhdGUiLCJyZXBsaWNhdGlvbklkIjoiNjkyODkwZGUxMzA3MGM2MTlmYzkyZWVhIiwiaWF0IjoxNzcyNzEyMDI4LCJleHAiOjE4MDQyNDgwMjh9.fQjAeNfXwC70_GcmNjW-qrX_qO3Qz72gZ6dNaRH40XA" target="_blank">Interview example</a>** for this exercise. 
+* **<a href="https://pre.workbench.leia.ovh/spectate/69a96a43fef1617ef502b25d?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI2OWE5NmE0M2ZlZjE2MTdlZjUwMmIyNWQiLCJ0eXBlIjoic3BlY3RhdGUiLCJyZXBsaWNhdGlvbklkIjoiNjkyODkwZGUxMzA3MGM2MTlmYzkyZWVhIiwiaWF0IjoxNzcyNzEyMDI4LCJleHAiOjE4MDQyNDgwMjh9.fQjAeNfXwC70_GcmNjW-qrX_qO3Qz72gZ6dNaRH40XA" target="_blank">Interview example</a>** for this exercise.
+
+Here you will find the solution for the exercise. However, you will also find it at the end of your evaluation process once you submit your solution
 
     ![Exercise solution](process-exercises/ticket-manager/solution.svg)
 
