@@ -22,7 +22,7 @@ In this exercise you will act as an interviewer to extract the requisites for a 
 
 Here you will find the solution for the exercise. However, you will also find it at the end of your evaluation process once you submit your solution
 
-    ![Exercise solution](process-exercises/ticket-manager/solution.svg)
+![Exercise solution](process-exercises/ticket-manager/solution.svg)
 
 
 ## 📝 List of other available exercises
