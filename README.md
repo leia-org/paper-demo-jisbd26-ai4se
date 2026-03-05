@@ -14,6 +14,8 @@ This repository contains the supplementary material of the paper entitled "Learn
 
 Feel free to test the tool by your self [here](https://pre.workbench.leia.ovh/?email=_test_dm2512&code=RMJCVVJ1025HR0YMH). You will be redirected to a page using both a test email and code. Start the conversation and try to speak with the agent in order to model the diagram. Once you feel ready to go, model it in mermaid using any editor or the given one. When finished, just send the solution.
 
+In this exercise you will act as an interviewer to extract the requisites for a festival access control and cashless payment management platform. You will interact with Ada Lovelace, which is an AI Agent designed to act as festival operations and guests-services manager. The interview will take place in LEIA platform. Use English to communiacte with her, and try to use your own voice for a better UX. Your goal is to model a Class Diagram using mermaid sintax, which will correspond to the database conceptual model needed by the app. You will have the oportunity to do that once you feel that you have finished with your interview. In case you are not familiar with mermaid, there is an example class diagram so you avoid starting from zero. Good luck and enjoy yourself. 
+
 ## 📝 List of other available exercises
 
 In order to try the BPM-LEIA, which is another tool to practice BPM skills, we already have developed the following examples that correspond with exercises present in the book **Fundamentals of Business Process Management** [[1]]([README.md#-references). [[2]]([README.md#-references])
