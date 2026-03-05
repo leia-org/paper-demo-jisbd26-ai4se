@@ -18,6 +18,10 @@ In this exercise you will act as an interviewer to extract the requisites for a 
 
 * **<a href="https://pre.workbench.leia.ovh/?email=_test_dm2512&code=RMJCVVJ1025HR0YMH" target="_blank">Demo Link</a>** to the interview exercise. 
 * **Exercise Code**: RMJCVVJ1025HR0YMH
+* **<a href="https://pre.workbench.leia.ovh/spectate/69a96a43fef1617ef502b25d?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI2OWE5NmE0M2ZlZjE2MTdlZjUwMmIyNWQiLCJ0eXBlIjoic3BlY3RhdGUiLCJyZXBsaWNhdGlvbklkIjoiNjkyODkwZGUxMzA3MGM2MTlmYzkyZWVhIiwiaWF0IjoxNzcyNzEyMDI4LCJleHAiOjE4MDQyNDgwMjh9.fQjAeNfXwC70_GcmNjW-qrX_qO3Qz72gZ6dNaRH40XA" target="_blank">Interview example</a>** for this exercise. 
+
+    ![Exercise solution](process-exercises/assessing-loan-application/assessing-loan-application-process-model.png)
+
 
 ## 📝 List of other available exercises
 
