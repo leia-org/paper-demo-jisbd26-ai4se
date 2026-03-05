@@ -11,6 +11,13 @@ This repository contains the supplementary material of the paper entitled "Learn
 
 ## ✍️ Authors 
 
+José Antonio Parejo<sup>1</sup>
+<br>Pablo Fernández<sup>1</sup>
+<br>Daniel Galván<sup>1</sup>
+
+_Affiliations:_
+<br><sup>1</sup> SCORE Lab, Universidad of Sevilla, Sevilla, Spain
+
 ## 📖 References
 
 
