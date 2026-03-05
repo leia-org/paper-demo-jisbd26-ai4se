@@ -2,9 +2,9 @@
 
 This repository contains the supplementary material of the paper entitled "Learning Enabling Intelligent Assistants for Software Engineering Training", submitted to JISBD 2026.
 
-## 🤖  **BPM-LEIA**
+## 🤖  **LEIA Class Diagram Modeling**
 
-**BPM-LEIA** (BPM Learning-Enabling Intelligent Assistant) is an AI-powered tool designed to simulate realistic process domain expert interviews for training students to gather the information needed to build an accurate process model.
+**LEIA** (Learning-Enabling Intelligent Assistant) is an AI-powered tool designed to simulate realistic process domain expert interviews for training students to gather the information needed to build an accurate process model or diagram classes. In this article we will discuss conceptual modeling skills that can be trained using it.
 
 ## 🎥 Video
 
@@ -16,7 +16,7 @@ Feel free to test the tool by your self [here](https://pre.workbench.leia.ovh/?e
 
 ## 📝 List of other available exercises
 
-In order to try the BPM-LEIA, we already have developed the following examples that correspond with exercises present in the book **Fundamentals of Business Process Management** [[1]]([README.md#-references). [[2]]([README.md#-references])
+In order to try the BPM-LEIA, which is another tool to practice BPM skills, we already have developed the following examples that correspond with exercises present in the book **Fundamentals of Business Process Management** [[1]]([README.md#-references). [[2]]([README.md#-references])
 
 ### Assessing loan application process (*Exercise 3.2, page 84. Process model solution, page 109.*)
 * **<a href="https://workbench.leia.ovh?email=_test_b25&code=RMCFIG25GZ3NKRNUH" target="_blank">Demo Link</a>** to the interview exercise on the _loan application process_. 
